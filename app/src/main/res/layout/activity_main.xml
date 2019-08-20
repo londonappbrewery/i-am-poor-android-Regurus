@@ -25,5 +25,6 @@
         android:layout_width="395dp"
         android:layout_height="424dp"
         android:layout_centerVertical="true"
+        android:contentDescription="@string/main_image_desc"
         app:srcCompat="@drawable/coal" />
 </RelativeLayout>
